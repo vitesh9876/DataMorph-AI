@@ -1,30 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+<title id="title">DataMorph AI Processing Flow</title>
+<desc id="desc">Raw files flow through extraction and cleaning, split into machine learning and Gemini NLP analysis, then merge into visualization and reporting.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f3ff"/><stop offset=".5" stop-color="#ecfeff"/><stop offset="1" stop-color="#eff6ff"/></linearGradient>
- <linearGradient id="p" x1="0" x2="1"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#06b6d4"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
- <filter id="shadow"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-opacity=".12"/></filter>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+  <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0891b2"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+  <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+  <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ea580c"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+  <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#059669"/><stop offset="1" stop-color="#10b981"/></linearGradient>
+  <linearGradient id="g6" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#db2777"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+  <linearGradient id="g7" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16a34a"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#0f172a" flood-opacity=".16"/>
+  </filter>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+    <path d="M0 0 L10 5 L0 10 Z" fill="#64748b"/>
+  </marker>
+  <style>
+    .box{stroke:#fff;stroke-width:3}
+    .title{font:800 22px Arial,sans-serif;fill:#fff}
+    .sub{font:500 13px Arial,sans-serif;fill:#fff;opacity:.92}
+    .num{font:800 13px Arial,sans-serif;fill:#fff;opacity:.8;letter-spacing:1px}
+    .arrow{fill:none;stroke:#64748b;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#arrow)}
+  </style>
 </defs>
-<rect x="2" y="2" width="1196" height="616" rx="30" fill="url(#bg)" stroke="#dbeafe" stroke-width="2"/>
-<text x="600" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="4" fill="#64748b">DATAMORPH AI • PROCESSING FLOW</text>
 
-<!-- connectors -->
-<g fill="none" stroke="url(#p)" stroke-width="4" stroke-linecap="round">
- <path d="M600 128 V150"/><path d="M600 218 V240"/><path d="M600 308 V335"/>
- <path d="M600 415 V440"/><path d="M600 508 V535"/>
- <path d="M510 375 H390"/><path d="M690 375 H810"/>
- <path d="M390 415 C390 430 500 440 600 450"/><path d="M810 415 C810 430 700 440 600 450"/>
-</g>
-<circle r="7" fill="#7c3aed"><animateMotion dur="3s" repeatCount="indefinite" path="M600 128 V535"/></circle>
-<circle r="7" fill="#06b6d4"><animateMotion dur="3s" begin="1s" repeatCount="indefinite" path="M390 375 H810"/></circle>
+<rect width="1200" height="820" rx="28" fill="#ffffff"/>
+<text x="600" y="48" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="800" fill="#0f172a">DATAMORPH AI — PROCESSING FLOW</text>
+<text x="600" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#64748b">From raw files to structured insights and reports</text>
 
-<!-- main cards -->
-<g filter="url(#shadow)" font-family="Arial,sans-serif">
- <g transform="translate(350 68)"><rect width="500" height="60" rx="18" fill="#fff" stroke="#c4b5fd" stroke-width="2"/><circle cx="34" cy="30" r="18" fill="#ede9fe"/><text x="34" y="36" text-anchor="middle" font-size="18">📁</text><text x="68" y="27" font-size="16" font-weight="800" fill="#6d28d9">01 • RAW FILES</text><text x="68" y="47" font-size="12" fill="#64748b">PDF • XLSX • DOCX • PPTX • CSV • TXT</text></g>
- <g transform="translate(350 158)"><rect width="500" height="60" rx="18" fill="#fff" stroke="#67e8f9" stroke-width="2"/><circle cx="34" cy="30" r="18" fill="#cffafe"/><text x="34" y="36" text-anchor="middle" font-size="18">⚙</text><text x="68" y="27" font-size="16" font-weight="800" fill="#0e7490">02 • MULTI-FORMAT EXTRACTOR</text><text x="68" y="47" font-size="12" fill="#64748b">PyMuPDF • pdfplumber • openpyxl • python-docx</text></g>
- <g transform="translate(350 248)"><rect width="500" height="60" rx="18" fill="#fff" stroke="#93c5fd" stroke-width="2"/><circle cx="34" cy="30" r="18" fill="#dbeafe"/><text x="34" y="36" text-anchor="middle" font-size="18">✦</text><text x="68" y="27" font-size="16" font-weight="800" fill="#1d4ed8">03 • STRUCTURE + CLEAN</text><text x="68" y="47" font-size="12" fill="#64748b">Normalization • deduplication • quality scoring</text></g>
- <g transform="translate(90 345)"><rect width="300" height="70" rx="20" fill="#fff" stroke="#c4b5fd" stroke-width="2"/><circle cx="34" cy="35" r="19" fill="#ede9fe"/><text x="34" y="41" text-anchor="middle" font-size="18">◈</text><text x="68" y="29" font-size="16" font-weight="800" fill="#6d28d9">04A • ML ENGINE</text><text x="68" y="50" font-size="12" fill="#64748b">Anomalies • forecasting</text></g>
- <g transform="translate(810 345)"><rect width="300" height="70" rx="20" fill="#fff" stroke="#67e8f9" stroke-width="2"/><circle cx="34" cy="35" r="19" fill="#cffafe"/><text x="34" y="41" text-anchor="middle" font-size="18">✦</text><text x="68" y="29" font-size="16" font-weight="800" fill="#0e7490">04B • GEMINI + NLP</text><text x="68" y="50" font-size="12" fill="#64748b">Ask Your Data</text></g>
- <g transform="translate(350 440)"><rect width="500" height="68" rx="20" fill="#fff" stroke="#60a5fa" stroke-width="2"/><circle cx="34" cy="34" r="19" fill="#dbeafe"/><text x="34" y="40" text-anchor="middle" font-size="18">◉</text><text x="68" y="28" font-size="16" font-weight="800" fill="#1d4ed8">05 • VISUALIZATION + INSIGHTS</text><text x="68" y="49" font-size="12" fill="#64748b">Charts • patterns • explanations</text></g>
- <g transform="translate(350 535)"><rect width="500" height="55" rx="18" fill="#fff" stroke="#86efac" stroke-width="2"/><text x="250" y="24" text-anchor="middle" font-size="15" font-weight="800" fill="#15803d">06 • REPORT ENGINE</text><text x="250" y="43" text-anchor="middle" font-size="11" fill="#64748b">PDF • DOCX • PPTX • XLSX • HTML</text></g>
+<!-- arrows -->
+<path class="arrow" d="M600 175 V205"/>
+<path class="arrow" d="M600 300 V330"/>
+<path class="arrow" d="M600 425 V460 H285 V485"/>
+<path class="arrow" d="M600 425 V460 H915 V485"/>
+<path class="arrow" d="M285 585 V620 H600 V645"/>
+<path class="arrow" d="M915 585 V620 H600 V645"/>
+<path class="arrow" d="M600 735 V765"/>
+
+<!-- nodes -->
+<g filter="url(#shadow)">
+  <g transform="translate(375 100)">
+    <rect class="box" width="450" height="75" rx="18" fill="url(#g1)"/>
+    <text class="num" x="225" y="24" text-anchor="middle">01</text>
+    <text class="title" x="225" y="49" text-anchor="middle">RAW FILES</text>
+    <text class="sub" x="225" y="66" text-anchor="middle">PDF • XLSX • DOCX • PPTX • CSV • TXT</text>
+  </g>
+
+  <g transform="translate(375 225)">
+    <rect class="box" width="450" height="75" rx="18" fill="url(#g2)"/>
+    <text class="num" x="225" y="24" text-anchor="middle">02</text>
+    <text class="title" x="225" y="49" text-anchor="middle">MULTI-FORMAT EXTRACTOR</text>
+    <text class="sub" x="225" y="66" text-anchor="middle">PyMuPDF • pdfplumber • openpyxl • python-docx</text>
+  </g>
+
+  <g transform="translate(375 350)">
+    <rect class="box" width="450" height="75" rx="18" fill="url(#g3)"/>
+    <text class="num" x="225" y="24" text-anchor="middle">03</text>
+    <text class="title" x="225" y="49" text-anchor="middle">STRUCTURE + CLEAN</text>
+    <text class="sub" x="225" y="66" text-anchor="middle">Normalization • deduplication • quality scoring</text>
+  </g>
+
+  <g transform="translate(85 485)">
+    <rect class="box" width="400" height="100" rx="20" fill="url(#g4)"/>
+    <text class="num" x="200" y="27" text-anchor="middle">04A</text>
+    <text class="title" x="200" y="56" text-anchor="middle">ML ENGINE</text>
+    <text class="sub" x="200" y="78" text-anchor="middle">Anomaly detection • forecasting</text>
+  </g>
+
+  <g transform="translate(715 485)">
+    <rect class="box" width="400" height="100" rx="20" fill="url(#g6)"/>
+    <text class="num" x="200" y="27" text-anchor="middle">04B</text>
+    <text class="title" x="200" y="56" text-anchor="middle">GEMINI + NLP</text>
+    <text class="sub" x="200" y="78" text-anchor="middle">Ask Your Data • natural-language insights</text>
+  </g>
+
+  <g transform="translate(375 645)">
+    <rect class="box" width="450" height="90" rx="20" fill="url(#g5)"/>
+    <text class="num" x="225" y="27" text-anchor="middle">05</text>
+    <text class="title" x="225" y="55" text-anchor="middle">VISUALIZATION + INSIGHTS</text>
+    <text class="sub" x="225" y="76" text-anchor="middle">Charts • patterns • explanations</text>
+  </g>
+
+  <g transform="translate(375 765)">
+    <rect class="box" width="450" height="48" rx="16" fill="url(#g7)"/>
+    <text class="title" x="225" y="31" text-anchor="middle" font-size="18">06 • REPORT ENGINE</text>
+  </g>
 </g>
 </svg>
