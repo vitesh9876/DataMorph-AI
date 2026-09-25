@@ -59,39 +59,7 @@ It is designed to handle both structured and unstructured sources such as PDFs, 
 
 ### Processing flow
 
-```text
-┌───────────────┐
-│   RAW FILES   │  PDF • XLSX • DOCX • PPTX • CSV • TXT
-└───────┬───────┘
-        ↓
-┌───────────────────────┐
-│ MULTI-FORMAT EXTRACTOR│  PyMuPDF • pdfplumber • openpyxl • python-docx
-└──────────┬────────────┘
-           ↓
-┌───────────────────────┐
-│ STRUCTURING + CLEANING│  normalization • deduplication • quality scoring
-└──────────┬────────────┘
-           ↓
-      ┌────┴────┐
-      ↓         ↓
-┌──────────┐ ┌──────────────┐
-│ ML ENGINE │ │ GEMINI + NLP │
-│ anomalies │ │ Ask Your Data│
-│ forecasting│ └──────┬───────┘
-└────┬─────┘        ↓
-     └────────┬─────┘
-              ↓
-      ┌──────────────┐
-      │ VISUALIZATION│
-      │ + INSIGHTS   │
-      └──────┬───────┘
-             ↓
-      ┌──────────────┐
-      │ REPORT ENGINE│
-      └──────┬───────┘
-             ↓
- PDF • DOCX • PPTX • XLSX • HTML
-```
+<img src="https://raw.githubusercontent.com/vitesh9876/DataMorph-AI/main/docs/processing-flow.svg" width="100%" alt="Colorful animated DataMorph AI processing flow"/>
 
 ---
 
