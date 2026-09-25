@@ -59,8 +59,7 @@ It is designed to handle both structured and unstructured sources such as PDFs, 
 
 ### Processing flow
 
-<img src="https://raw.githubusercontent.com/vitesh9876/DataMorph-AI/main/docs/processing-flow.svg?v=2" width="100%" alt="Colorful animated DataMorph AI processing flow"/>
-
+<img src="https://raw.githubusercontent.com/vitesh9876/DataMorph-AI/main/docs/processing-flow.svg?v=3" width="100%" alt="DataMorph AI processing flow"/>
 ---
 
 ## 🚀 Feature Deep Dive
