@@ -1,0 +1,333 @@
+Transaction_ID,Invoice_Date,Product_Name,Product_Category,Sales_Region,Base_Price,Units_Ordered,Discount_Percentage,Tax_Amount,Total_Invoice_USD,Payment_Method,Customer_Segment,Fulfillment_Status,Customer_Rating
+TXN-2024-10001,2024-02-07,lg oled 65,Displays,S. America,1699.00,20,0.15,$135.92,"$28,883.00",ACH Transfer,Small Business,Delivered,4.0
+TXN-2024-10002,2024.06.23,DELL XPS 15,Computers,Asia Pacific,"$1,900",194,25%,N/A,$276377.25,Credit Card,Government,Cancelled,3.5
+TXN-2024-10003,07/26/2024,LOGITECH MX MASTER,Accessories,APAC,$99,20,0.05,N/A,"$1,881.00",Credit Card,Mid-Market,Delivered,1.0
+TXN-2024-10004,2024.04.09,sony wh-1000xm5,Audio,middle east,399.99 USD,8,25%,$32.00,"$2,399.94",Purchase Order,Enterprise,Cancelled,3.0
+TXN-2024-10005,05/16/2024,"MACBOOK PRO 16""",Computers,MENA,"$2,499",23,10%,$199.92,"₹4,293,532",Corporate Wire,Direct Consumer,In Transit,3.5
+TXN-2024-10006,09/28/2024,IPHONE 15 PRO,Electronics,middle east,$999,18,10%,$79.92,"16,183.80",Corporate Wire,Government,Delivered,3.5
+TXN-2024-10007,07 Aug 2024,Sony Headphones XM5,Audio,Middle East,"₹33,199",24,0.05,N/A,"$9,119.77",Purchase Order,Mid-Market,In Transit,3.0
+TXN-2024-10008,09/08/2024,macbook pro 16-inch,Computers,LATAM,"€2,299.08",23,30%,$199.92,"40,233.90",Corporate Wire,Mid-Market,Pending Approval,4.8
+TXN-2024-10009,08/11/2024,AppleWatchUltra2,Wearables,EU-West,799.00,12,0.20,$63.92,$7670.40,Credit Card,Small Business,Delivered,4.5
+TXN-2024-10010,2024.11.10,dell xps 15,computers,North America,"$1,900",462,0.00,$151.96,$877569.00,Credit Card,Small Business,Cancelled,2.0
+TXN-2024-10011,2024/05/27,Bose QuietComfort 45,Audio,Middle East,$329,9,0%,$26.32,$2961.00,Corporate Wire,Mid-Market,Refunded,5.0
+TXN-2024-10012,2024-11-26,Dell XPS 15,Computers,EU-West,"$1,900",21,0.30,$151.96,"$27,922.65",Purchase Order,Mid-Market,Cancelled,1.0
+TXN-2024-10013,2024.05.21,Galaxy S24 Ultra,Electronics,APAC,1299.00 USD,4,0%,$103.92,"₹431,268",Purchase Order,Enterprise,Refunded,3.0
+TXN-2024-10014,04-04-2024,bose quietcomfort 45,Audio,middle east,329.00 USD,14,15%,$26.32,"$3,915.10",Corporate Wire,Mid-Market,Refunded,3.0
+TXN-2024-10015,11 May 2024,APPLE WATCH ULTRA 2,Wearables,europe west,$799.00,2,25%,,"1,198.50",Corporate Wire,Government,Pending Approval,3.0
+TXN-2024-10016,09/06/2024,Samsung Galaxy S24 Ultra,Electronics,Mid East,1299.00 USD,5,0.15,$103.92,"₹458,222",PayPal,Small Business,Cancelled,1.0
+TXN-2024-10017,15-11-2024,macbook pro 16,computers,Latin America,"$2,499",9,15%,$199.92,$19117.35,Credit Card,Mid-Market,Refunded,3.0
+TXN-2024-10018,25 Feb 2024,"iPad Pro 12.9""",TABLETS,NORTH AMERICA,"$1,099",17,30%,$87.92,"$13,078.10",Cryptocurrency,Government,Cancelled,Pending
+TXN-2024-10019,2024.03.06,"MACBOOK PRO 16""",Computers,North America,"₹207,417",1,20%,$199.92,$1999.20,PayPal,Direct Consumer,Delivered,1.0
+TXN-2024-10020,2024/11/16,apple watch ultra 2,Wearables,APAC,$799,21,5%,$63.92,"15,940.05",Credit Card,Mid-Market,Processing,4.8
+TXN-2024-10021,2024-11-26,bose quietcomfort 45,Audio,NORTH AMERICA,€302.68,,0%,$26.32,$329.00,ACH Transfer,Direct Consumer,Processing,4.0
+TXN-2024-10022,08/18/2024,SONY WH1000XM5,Audio,latin america,$400,6,25%,$32.00,$1799.95,Cryptocurrency,Small Business,Refunded,4.0
+TXN-2024-10023,2024.09.17,SAMSUNG GALAXY S24 ULTRA,Electronics,asia pacific,"$1,299",16,10%,$103.92,"18,705.60",PayPal,Government,Delivered,3.0
+TXN-2024-10024,23 Apr 2024,"IPAD PRO 12.9""",Tablets,NORTH AMERICA,1099.00,25,0.05,$87.92,$26101.25,Corporate Wire,Small Business,Processing,3.5
+TXN-2024-10025,2024/05/09,IPHONE 15 PRO,Electronics,EU-West,€919.08,23,20%,$79.92,$18381.60,Corporate Wire,Government,Delivered,1.0
+TXN-2024-10026,2024/09/17,ipad pro 12.9,TABLETS,EU-West,"$1,099.00",20,0.20,$87.92,$17584.00,Purchase Order,Mid-Market,Pending Approval,5.0
+TXN-2024-10027,12-12-2024,Sony WH-1000XM5,Audio,MENA,$399.99,243,20%,$32.00,"(77,758.06)",Cryptocurrency,Mid-Market,In Transit,Pending
+TXN-2024-10028,2024/06/01,ipad pro 12.9,Tablets,middle east,"€1,011.08",16,0%,$87.92,"$17,584.00",Purchase Order,Mid-Market,Delivered,2.0
+TXN-2024-10029,2024.12.24,AppleWatchUltra2,Wearables,S. America,799.00 USD,23,30%,$63.92,$12863.90,Credit Card,Mid-Market,Cancelled,2.0
+TXN-2024-10030,2024-04-06,samsung galaxy s24 ultra,Electronics,S. America,"$1,299",17,0%,$103.92,"$22,083.00",Cryptocurrency,Small Business,Refunded,3.0
+TXN-2024-10031,2024-06-25,macbook pro 16,Computers,middle east,"$2,499.00",17,10%,$199.92,"38,234.70",Purchase Order,Direct Consumer,Processing,Pending
+TXN-2024-10032,2024-07-03,Sony WH-1000XM5,Audio,Middle East,399.99 USD,23,0.05,$32.00,"₹725,402",ACH Transfer,Mid-Market,Processing,1.0
+TXN-2024-10033,2024/11/02,Apple Watch Ultra 2,wearables,NORTH AMERICA,799.00 USD,8,15%,,$5433.20,Credit Card,Enterprise,Refunded,5.0
+TXN-2024-10034,05 Feb 2024,"MacBook Pro 16""",Computers,N. America,2499.00,4,20%,$199.92,$7996.80,Corporate Wire,Small Business,Pending Approval,2.0
+TXN-2024-10035,2024-09-14,"MacBook Pro 16""",Computers,Mid East,"₹207,417",17,15%,$199.92,"(36,110.55)",Credit Card,Small Business,Delivered,4.5
+TXN-2024-10036,2024/06/21,Logitech MX Master 3S,Accessories,Europe-W,99.00,14,30%,$7.92,$970.20,Credit Card,Mid-Market,Pending Approval,
+TXN-2024-10037,2024-07-22,LG OLED 65 TV,Displays,Middle East,"$1,699.00",12,5%,$135.92,"$19,368.60",Credit Card,Government,In Transit,2.0
+TXN-2024-10038,26-09-2024,"MacBook Pro 16""",Computers,Europe West,"€2,299.08",10,0%,$199.92,$24990.00,ACH Transfer,Mid-Market,Pending Approval,
+TXN-2024-10039,2024.07.19,sony wh-1000xm5,Audio,MENA,399.99 USD,21,0%,$32.00,$8399.79,Credit Card,Enterprise,Refunded,2.0
+TXN-2024-10040,2024/02/11,Samsung Galaxy S24 Ultra,ELECTRONICS,Europe-W,1299.00,8,0.10,$103.92,"₹776,282",Corporate Wire,Small Business,Processing,3.5
+TXN-2024-10041,16 Sep 2024,"IPAD PRO 12.9""",Tablets,Asia-Pac,"$1,099.00",19,25%,$87.92,$15660.75,ACH Transfer,Direct Consumer,Cancelled,4.5
+TXN-2024-10042,26 Jul 2024,iPhone 15 pro,Electronics,europe west,$999,14,0.05,$79.92,$13286.70,Credit Card,Government,Cancelled,2.0
+TXN-2024-10043,2024-10-19,logitech mx master 3s,Accessories,Europe West,"₹8,217",9,30%,$7.92,(623.70),null,Small Business,In Transit,5.0
+TXN-2024-10044,18-05-2024,Sony Headphones XM5,Audio,N. America,$399.99,17,25%,$32.00,$5099.87,Credit Card,Government,Refunded,4.5
+TXN-2024-10045,2024-02-26,AppleWatchUltra2,Wearables,Middle East,$799.00,8,0.30,$63.92,$4474.40,ACH Transfer,Enterprise,Cancelled,5.0
+TXN-2024-10046,18-10-2024,SAMSUNG GALAXY S24 ULTRA,Electronics,north america,"$1,299.00",7,30%,$103.92,$6365.10,PayPal,Mid-Market,In Transit,3.0
+TXN-2024-10047,26 Jun 2024,iPhone 15 Pro,electronics,NORTH AMERICA,999.00,13,0.05,$79.92,$12337.65,Corporate Wire,Government,Delivered,4.0
+TXN-2024-10048,06 Dec 2024,LOGITECH MX MASTER,Accessories,ASIA PACIFIC,$99.00,5,20%,$7.92,$396.00,Purchase Order,Mid-Market,Processing,1.0
+TXN-2024-10049,2024-01-25,logitech mx master 3s,ACCESSORIES,Asia-Pac,$99.00,2,0.05,N/A,$188.10,null,Small Business,In Transit,4.8
+TXN-2024-10050,18-02-2024,AppleWatchUltra2,WEARABLES,NORTH AMERICA,"₹66,317",25,0.00,$63.92,"19,975.00",Purchase Order,Mid-Market,Processing,4.5
+TXN-2024-10051,2024.01.17,ipad pro 12.9,Tablets,N. America,"$1,099.00",20,5%,$87.92,"20,881.00",PayPal,Direct Consumer,In Transit,Pending
+TXN-2024-10052,2024.02.07,Logitech MX Master 3S,Accessories,latin america,$99,13,10%,,$1158.30,ACH Transfer,Small Business,Pending Approval,3.5
+TXN-2024-10053,10/25/2024,APPLE WATCH ULTRA 2,Wearables,Asia-Pac,$799.00,11,20%,$63.92,$7031.20,Corporate Wire,Mid-Market,Delivered,3.5
+TXN-2024-10054,2024/09/25,Bose QC 45,audio,middle east,329.00,20,0.25,N/A,$4935.00,Cryptocurrency,Direct Consumer,Delivered,3.0
+TXN-2024-10055,28 Dec 2024,Galaxy S24 Ultra,Electronics,latin america,"₹107,817",1,0.30,$103.92,$909.30,Cryptocurrency,Mid-Market,In Transit,5.0
+TXN-2024-10056,2024.02.22,samsung galaxy s24 ultra,Electronics,ASIA PACIFIC,"$1,299.00",3,0.20,$103.92,"$3,117.60",Cryptocurrency,Direct Consumer,Refunded,3.0
+TXN-2024-10057,2024-12-10,Dell XPS 15,Computers,ASIA PACIFIC,1899.50 USD,3,5%,$151.96,$5413.57,PayPal,Mid-Market,Pending Approval,1.0
+TXN-2024-10058,02/21/2024,sony wh-1000xm5,Audio,North America,"₹33,199",2,0.00,$32.00,799.98,Corporate Wire,Direct Consumer,Processing,2.0
+TXN-2024-10059,2024-03-19,iphone 15 pro,Electronics,Latin America,999.00,9,15%,$79.92,"$7,642.35",Purchase Order,Enterprise,Cancelled,4.5
+TXN-2024-10060,2024-09-19,"IPAD PRO 12.9""",Tablets,NORTH AMERICA,1099.00 USD,22,0.25,$87.92,"$18,133.50",Corporate Wire,Mid-Market,Processing,3.5
+TXN-2024-10061,2024.03.25,LOGITECH MX MASTER,Accessories,asia pacific,$99,23,20%,$7.92,$1821.60,PayPal,Mid-Market,Delivered,4.5
+TXN-2024-10062,08/23/2024,macbook pro 16-inch,Computers,Mid East,"$2,499",226,0.00,$199.92,$564774.00,ACH Transfer,Enterprise,Pending Approval,
+TXN-2024-10063,2024.02.10,DELL XPS 15,Computers,N. America,1899.50 USD,11,0%,$151.96,"$20,894.50",ACH Transfer,Enterprise,Pending Approval,3.0
+TXN-2024-10064,04/08/2024,Sony Headphones XM5,AUDIO,europe west,$399.99,8,10%,$32.00,"$2,879.93",Credit Card,Mid-Market,Refunded,5.0
+TXN-2024-10065,2024.06.27,"IPAD PRO 12.9""",Tablets,north america,1099.00 USD,9,20%,$87.92,"$7,912.80",Purchase Order,Direct Consumer,Processing,3.5
+TXN-2024-10066,09 Sep 2024,BOSE QC45,Audio,MENA,329.00,160,0%,$26.32,$52640.00,ACH Transfer,Mid-Market,In Transit,1.0
+TXN-2024-10067,2024.07.17,Bose QuietComfort 45,Audio,MENA,$329.00,20,0.10,$26.32,$5922.00,ACH Transfer,Government,Pending Approval,2.0
+TXN-2024-10068,2024.01.16,Logitech Mouse MX3S,Accessories,Europe West,99.00 USD,12,30%,$7.92,$831.60,Corporate Wire,Government,Pending Approval,4.5
+TXN-2024-10069,2024-01-26,sony wh-1000xm5,Audio,LATAM,399.99,17,0.00,$32.00,"6,799.83",PayPal,Small Business,Delivered,4.8
+TXN-2024-10070,01-01-2024,samsung galaxy s24 ultra,Electronics,APAC,"$1,299.00",,25%,$103.92,$974.25,Credit Card,---,Delivered,3.0
+TXN-2024-10071,17-12-2024,Bose QuietComfort 45,AUDIO,S. America,$329,24,30%,$26.32,$5527.20,ACH Transfer,Enterprise,Delivered,4.2
+TXN-2024-10072,09-06-2024,sony wh-1000xm5,Audio,middle east,"₹33,199",,0.00,$32.00,399.99,ACH Transfer,Government,Pending Approval,4.5
+TXN-2024-10073,2024-05-24,Bose QuietComfort 45,AUDIO,S. America,$329,11,5%,$26.32,"₹285,358",Cryptocurrency,Enterprise,Refunded,1.0
+TXN-2024-10074,11/19/2024,Sony Headphones XM5,Audio,middle east,$399.99,9,0.20,$32.00,$2879.93,Corporate Wire,Government,Refunded,1.0
+TXN-2024-10075,2024/11/05,samsung galaxy s24 ultra,Electronics,Middle East,"€1,195.08",,25%,$103.92,$974.25,Cryptocurrency,Government,Delivered,3.5
+TXN-2024-10076,2024-10-11,samsung galaxy s24 ultra,Electronics,latin america,"$1,299",19,10%,$103.92,"$22,212.90",Cryptocurrency,Government,Delivered,1.0
+TXN-2024-10077,2024.08.09,Bose QC 45,Audio,EU-West,$329.00,19,15%,$26.32,"$5,313.35",ACH Transfer,Enterprise,Refunded,4.0
+TXN-2024-10078,2024.12.13,iphone15pro,electronics,Europe-W,$999,22,0.15,N/A,"₹1,550,548",Cryptocurrency,Enterprise,Cancelled,4.8
+TXN-2024-10079,2024/08/07,Bose QC 45,Audio,EUROPE WEST,€302.68,7,0.05,$26.32,$2187.85,PayPal,Mid-Market,In Transit,5.0
+TXN-2024-10080,19-11-2024,sony wh-1000xm5,Audio,europe west,$400,23,30%,$32.00,$6439.84,ACH Transfer,Mid-Market,Cancelled,5.0
+TXN-2024-10081,17 Oct 2024,"iPad Pro 12.9""",Tablets,North America,1099.00 USD,15,25%,$87.92,$12363.75,Purchase Order,Enterprise,In Transit,4.5
+TXN-2024-10082,2024/01/08,"MACBOOK PRO 16""",Computers,NORTH AMERICA,"$2,499",24,20%,$199.92,"47,980.80",Credit Card,Direct Consumer,Processing,1.0
+TXN-2024-10083,19-10-2024,Galaxy S24 Ultra,Electronics,asia pacific,1299.00,4,5%,$103.92,"4,936.20",Cryptocurrency,Government,Refunded,5.0
+TXN-2024-10084,2024.08.02,"MacBook Pro 16""",Computers,Latin America,2499.00 USD,22,30%,$199.92,$38484.60,Corporate Wire,Direct Consumer,In Transit,1.0
+TXN-2024-10085,16-10-2024,"MACBOOK PRO 16""",Computers,Latin America,"₹207,417",18,10%,N/A,$40483.80,ACH Transfer,Small Business,Pending Approval,5.0
+TXN-2024-10086,26-09-2024,"MACBOOK PRO 16""",Computers,ASIA PACIFIC,2499.00,15,5%,$199.92,$35610.75,Credit Card,Enterprise,Delivered,3.5
+TXN-2024-10087,2024.07.13,Galaxy S24 Ultra,Electronics,NA Region,"$1,299",17,10%,$103.92,$19874.70,ACH Transfer,Enterprise,Cancelled,4.5
+TXN-2024-10088,07/19/2024,iphone15pro,ELECTRONICS,europe west,$999,22,0%,$79.92,$21978.00,ACH Transfer,Government,Processing,4.5
+TXN-2024-10089,06/13/2024,Dell XPS15,Computers,NA Region,"₹157,658",13,5%,$151.96,$23458.82,PayPal,Mid-Market,Processing,4.5
+TXN-2024-10090,01-09-2024,LG OLED 65 TV,Displays,MENA,"₹141,017",25,5%,$135.92,"$40,351.25",Credit Card,Mid-Market,Processing,4.5
+TXN-2024-10091,20 Feb 2024,iPhone 15 Pro,Electronics,S. America,€919.08,8,10%,,$7192.80,PayPal,Government,Cancelled,4.5
+TXN-2024-10092,2024-11-16,ipad pro 12.9,TABLETS,EU-West,"€1,011.08",13,30%,$87.92,$10000.90,Corporate Wire,Direct Consumer,Refunded,4.5
+TXN-2024-10093,2024/07/19,iPhone 15 Pro,Electronics,Asia Pacific,"₹82,917",23,5%,$79.92,$21828.15,Credit Card,Government,Delivered,Pending
+TXN-2024-10094,09-01-2024,Logitech MX Master 3S,Accessories,Latin America,€91.08,2,5%,$7.92,$188.10,null,Enterprise,Processing,3.0
+TXN-2024-10095,13-05-2024,apple watch ultra 2,Wearables,MENA,$799,18,30%,$63.92,$10067.40,null,Direct Consumer,Refunded,4.0
+TXN-2024-10096,05-03-2024,Apple Watch Ultra 2,Wearables,LATAM,$799,5,0.20,$63.92,$3196.00,Corporate Wire,Direct Consumer,Refunded,2.0
+TXN-2024-10097,2024-03-05,Bose QC 45,audio,europe west,$329,8,0.20,$26.32,"$2,105.60",PayPal,Enterprise,In Transit,4.8
+TXN-2024-10098,17-05-2024,Sony WH-1000XM5,Audio,Mid East,€367.99,23,0%,$32.00,"$9,199.77",PayPal,Enterprise,Cancelled,4.0
+TXN-2024-10099,17 Jan 2024,"LG OLED 65"" TV",Displays,N. America,1699.00 USD,4,0.20,$135.92,"5,436.80",Cryptocurrency,Small Business,Refunded,3.5
+TXN-2024-10100,2024-10-15,sony wh-1000xm5,Audio,Mid East,€367.99,594,25%,$32.00,"178,195.54",Corporate Wire,Small Business,Pending Approval,4.0
+TXN-2024-10101,2024/01/13,Dell XPS 15,Computers,Middle East,"€1,747.54",1,5%,$151.96,"(1,804.52)",Cryptocurrency,Mid-Market,Pending Approval,4.5
+TXN-2024-10102,07-08-2024,lg oled 65,Displays,North America,1699.00 USD,2,25%,$135.92,"₹211,526",Purchase Order,Direct Consumer,In Transit,2.0
+TXN-2024-10103,11/01/2024,Dell XPS 15,computers,N. America,"$1,900",1,0.25,N/A,$1424.62,Purchase Order,Enterprise,Processing,Pending
+TXN-2024-10104,08-05-2024,Galaxy S24 Ultra,Electronics,north america,"€1,195.08",457,25%,$103.92,"$445,232.25",Purchase Order,Small Business,Cancelled,3.5
+TXN-2024-10105,2024.07.06,IPHONE 15 PRO,Electronics,Europe West,€919.08,23,30%,$79.92,"$16,083.90",Purchase Order,Enterprise,Pending Approval,3.0
+TXN-2024-10106,2024.07.14,Sony Headphones XM5,Audio,europe west,$400,21,0.05,$32.00,"₹662,323",PayPal,Enterprise,Pending Approval,4.2
+TXN-2024-10107,2024/02/15,Samsung Galaxy S24 Ultra,ELECTRONICS,asia pacific,1299.00,4,0%,$103.92,"5,196.00",PayPal,Direct Consumer,Refunded,3.0
+TXN-2024-10108,2024/09/18,Apple Watch Ultra 2,Wearables,north america,$799.00,12,15%,$63.92,"8,149.80",ACH Transfer,Government,Cancelled,
+TXN-2024-10109,17 Mar 2024,Bose QuietComfort 45,audio,Europe West,329.00 USD,15,0.10,$26.32,$4441.50,Corporate Wire,Government,Delivered,4.2
+TXN-2024-10110,13 Jan 2024,Galaxy S24 Ultra,Electronics,EUROPE WEST,"€1,195.08",6,25%,$103.92,$5845.50,Credit Card,Small Business,Pending Approval,4.0
+TXN-2024-10111,2024/11/12,Dell XPS 15,Computers,middle east,1899.50 USD,6,5%,$151.96,$10827.15,Corporate Wire,Small Business,In Transit,4.8
+TXN-2024-10112,02-07-2024,iPadPro 12.9,TABLETS,Europe-W,"$1,099",24,20%,$87.92,$21100.80,Corporate Wire,Government,Pending Approval,2.0
+TXN-2024-10113,2024-02-14,apple watch ultra 2,Wearables,ASIA PACIFIC,799.00,,30%,$63.92,559.30,ACH Transfer,Enterprise,Pending Approval,4.0
+TXN-2024-10114,2024.12.04,Galaxy S24 Ultra,Electronics,EU-West,"€1,195.08",195,15%,$103.92,"$215,309.25",ACH Transfer,Government,Refunded,2.0
+TXN-2024-10115,18-12-2024,Dell XPS 15,Computers,Latin America,1899.50 USD,6,10%,$151.96,"(10,257.30)",null,Mid-Market,Pending Approval,Pending
+TXN-2024-10116,2024.01.23,APPLE WATCH ULTRA 2,Wearables,EUROPE WEST,"₹66,317",25,20%,$63.92,$15980.00,Purchase Order,Mid-Market,Cancelled,2.0
+TXN-2024-10117,12/22/2024,Bose QuietComfort 45,Audio,EUROPE WEST,$329,12,25%,$26.32,"2,961.00",Cryptocurrency,Enterprise,Pending Approval,5.0
+TXN-2024-10118,2024/04/12,"MACBOOK PRO 16""",Computers,latin america,2499.00,4,20%,$199.92,"7,996.80",ACH Transfer,Direct Consumer,Processing,3.5
+TXN-2024-10119,2024/02/20,bose quietcomfort 45,Audio,APAC,329.00,2,5%,,$625.10,Purchase Order,Government,Cancelled,5.0
+TXN-2024-10120,09 Aug 2024,"IPAD PRO 12.9""",Tablets,europe west,1099.00 USD,474,0%,$87.92,"₹43,236,858",PayPal,Government,Processing,4.2
+TXN-2024-10121,06/01/2024,LG OLED 65 TV,Displays,asia pacific,"€1,563.08",23,0.30,,$27353.90,Corporate Wire,Mid-Market,Delivered,
+TXN-2024-10122,2024/08/10,"LG OLED 65"" TV",Displays,Europe-W,"$1,699.00",220,15%,$135.92,$317713.00,Corporate Wire,Government,Cancelled,1.0
+TXN-2024-10123,2024-04-07,iphone15pro,Electronics,ASIA PACIFIC,$999,14,0.10,$79.92,$12587.40,Purchase Order,Small Business,Pending Approval,
+TXN-2024-10124,09-02-2024,Sony Headphones XM5,Audio,europe west,$400,8,5%,,$3039.92,Purchase Order,Small Business,Cancelled,2.0
+TXN-2024-10125,2024-01-24,LG OLED 65 TV,Displays,EU-West,"€1,563.08",18,30%,$135.92,"₹1,776,814",Credit Card,Enterprise,Pending Approval,1.0
+TXN-2024-10126,2024.05.10,Logitech Mouse MX3S,accessories,Europe West,$99.00,14,0.05,$7.92,"1,316.70",PayPal,Mid-Market,Processing,3.5
+TXN-2024-10127,05-07-2024,IPHONE 15 PRO,Electronics,Middle East,"₹82,917",5,10%,$79.92,"₹373,126",ACH Transfer,Small Business,Cancelled,4.5
+TXN-2024-10128,06 Jul 2024,Sony Headphones XM5,audio,LATAM,$399.99,25,0.30,$32.00,"(6,999.82)",PayPal,Enterprise,Pending Approval,4.2
+TXN-2024-10129,05/12/2024,LG 65-inch OLED,Displays,APAC,1699.00,19,5%,$135.92,"(30,666.95)",Credit Card,Government,Cancelled,4.8
+TXN-2024-10130,14-04-2024,"MacBook Pro 16""",Computers,Mid East,"$2,499.00",2,25%,$199.92,"₹311,126",ACH Transfer,Government,In Transit,4.2
+TXN-2024-10131,2024.06.02,LG OLED 65 TV,displays,europe west,"$1,699",17,20%,$135.92,"$23,106.40",ACH Transfer,Enterprise,Delivered,3.0
+TXN-2024-10132,2024.04.05,samsung galaxy s24 ultra,Electronics,Middle East,1299.00,20,0.15,$103.92,$22083.00,Cryptocurrency,Enterprise,In Transit,5.0
+TXN-2024-10133,2024/12/11,"IPAD PRO 12.9""",Tablets,latin america,"₹91,217",7,30%,$87.92,"5,385.10",ACH Transfer,Small Business,Cancelled,2.0
+TXN-2024-10134,06-03-2024,Logitech Mouse MX3S,accessories,LATAM,$99,,0.10,$7.92,$89.10,Purchase Order,Small Business,In Transit,3.5
+TXN-2024-10135,2024-07-19,BOSE QC45,Audio,EUROPE WEST,€302.68,5,20%,$26.32,"$1,316.00",Corporate Wire,Government,Processing,5.0
+TXN-2024-10136,2024/12/26,Logitech MX Master 3S,Accessories,EU-West,99.00 USD,8,0.15,$7.92,"₹55,876",Purchase Order,Direct Consumer,Processing,4.0
+TXN-2024-10137,2024.10.02,SAMSUNG GALAXY S24 ULTRA,Electronics,N. America,"₹107,817",25,30%,$103.92,"₹1,886,798",Purchase Order,Enterprise,Refunded,5.0
+TXN-2024-10138,2024-08-01,Sony WH-1000XM5,Audio,N. America,399.99 USD,6,0.15,$32.00,$2039.95,Purchase Order,Government,Refunded,4.2
+TXN-2024-10139,07 May 2024,Bose QuietComfort 45,Audio,Europe West,"₹27,307",13,0.00,$26.32,"₹354,991",Corporate Wire,Direct Consumer,In Transit,3.0
+TXN-2024-10140,2024-02-13,macbook pro 16,Computers,Asia-Pac,2499.00,1,0.00,$199.92,"2,499.00",Cryptocurrency,Small Business,Delivered,3.0
+TXN-2024-10141,14 Feb 2024,Dell XPS15,Computers,north america,1899.50 USD,25,5%,$151.96,$45113.12,PayPal,Government,Delivered,4.8
+TXN-2024-10142,2024/01/04,lg oled 65,Displays,Europe West,1699.00,6,0.00,$135.92,$10194.00,Corporate Wire,Government,Pending Approval,1.0
+TXN-2024-10143,05/04/2024,"MacBook Pro 16""",Computers,North America,2499.00,7,30%,$199.92,"12,245.10",Corporate Wire,Mid-Market,Refunded,5.0
+TXN-2024-10144,2024-08-05,Samsung Galaxy S24 Ultra,Electronics,Asia Pacific,"€1,195.08",12,5%,$103.92,"(14,808.60)",Cryptocurrency,Enterprise,Pending Approval,3.5
+TXN-2024-10145,2024.07.12,"MacBook Pro 16""",Computers,Europe West,"$2,499.00",,5%,$199.92,$2374.05,Cryptocurrency,Mid-Market,Refunded,4.0
+TXN-2024-10146,14-01-2024,"IPAD PRO 12.9""",Tablets,Europe-W,"$1,099",13,30%,$87.92,$10000.90,Cryptocurrency,---,In Transit,4.2
+TXN-2024-10147,2024/02/20,APPLE WATCH ULTRA 2,wearables,MENA,799.00 USD,378,0.20,$63.92,$241617.60,PayPal,Government,Cancelled,5.0
+TXN-2024-10148,2024.06.07,bose quietcomfort 45,Audio,APAC,$329.00,6,5%,$26.32,"1,875.30",ACH Transfer,Mid-Market,Processing,4.8
+TXN-2024-10149,20 Feb 2024,iPhone 15 pro,Electronics,europe west,€919.08,18,20%,$79.92,"$14,385.60",Corporate Wire,Direct Consumer,In Transit,4.0
+TXN-2024-10150,11 Nov 2024,"MACBOOK PRO 16""",Computers,Middle East,2499.00,24,10%,$199.92,"$53,978.40",Purchase Order,Small Business,In Transit,3.0
+TXN-2024-10151,10 Feb 2024,sony wh-1000xm5,Audio,NA Region,$399.99,17,0%,$32.00,$6799.83,ACH Transfer,Mid-Market,Delivered,1.0
+TXN-2024-10152,06/10/2024,macbook pro 16-inch,Computers,APAC,"$2,499.00",21,0.25,$199.92,"₹3,266,818",Corporate Wire,Direct Consumer,Processing,4.0
+TXN-2024-10153,03/28/2024,sony wh-1000xm5,Audio,Latin America,"₹33,199",14,0%,$32.00,$5599.86,Cryptocurrency,Mid-Market,Delivered,5.0
+TXN-2024-10154,24-10-2024,iPhone 15 pro,Electronics,S. America,$999,,5%,$79.92,$949.05,ACH Transfer,Enterprise,Pending Approval,3.0
+TXN-2024-10155,05 Feb 2024,macbook pro 16,COMPUTERS,S. America,"€2,299.08",20,20%,$199.92,"$39,984.00",Purchase Order,Small Business,Processing,4.5
+TXN-2024-10156,2024/07/04,LG OLED 65 TV,Displays,APAC,"₹141,017",17,30%,$135.92,"$20,218.10",null,Government,In Transit,2.0
+TXN-2024-10157,2024.12.10,SONY WH1000XM5,audio,middle east,"₹33,199",3,15%,$32.00,$1019.97,Purchase Order,Enterprise,Cancelled,4.0
+TXN-2024-10158,17-12-2024,SONY WH1000XM5,Audio,MENA,€367.99,23,20%,$32.00,"7,359.82",Corporate Wire,Direct Consumer,In Transit,
+TXN-2024-10159,08 Oct 2024,logitech mx master 3s,Accessories,north america,99.00 USD,25,15%,$7.92,$2103.75,ACH Transfer,Mid-Market,Cancelled,1.0
+TXN-2024-10160,10/24/2024,Dell XPS 15,Computers,N. America,"€1,747.54",16,15%,$151.96,$25833.20,PayPal,Mid-Market,Processing,3.0
+TXN-2024-10161,2024-01-26,Samsung Galaxy S24 Ultra,Electronics,north america,"$1,299",19,0%,$103.92,$24681.00,Corporate Wire,Small Business,In Transit,2.0
+TXN-2024-10162,2024/03/27,dell xps 15,Computers,NA Region,1899.50 USD,507,15%,$151.96,"818,589.53",ACH Transfer,Direct Consumer,In Transit,4.2
+TXN-2024-10163,08 Jun 2024,DELL XPS 15,Computers,Asia-Pac,"$1,899.50",4,15%,$151.96,"6,458.30",Corporate Wire,Enterprise,Cancelled,4.2
+TXN-2024-10164,2024.12.08,"MACBOOK PRO 16""",Computers,asia pacific,"₹207,417",22,25%,$199.92,$41233.50,ACH Transfer,Direct Consumer,Refunded,5.0
+TXN-2024-10165,2024.11.26,Logitech Mouse MX3S,Accessories,latin america,€91.08,20,20%,$7.92,$1584.00,Cryptocurrency,Mid-Market,Pending Approval,4.2
+TXN-2024-10166,13 Mar 2024,IPHONE 15 PRO,Electronics,NORTH AMERICA,999.00 USD,18,0.00,$79.92,$17982.00,Credit Card,Mid-Market,Cancelled,3.0
+TXN-2024-10167,05-10-2024,samsung galaxy s24 ultra,Electronics,Asia-Pac,1299.00,2,0.00,$103.92,$2598.00,ACH Transfer,Direct Consumer,In Transit,4.8
+TXN-2024-10168,13-02-2024,SAMSUNG GALAXY S24 ULTRA,Electronics,Europe West,"€1,195.08",8,20%,$103.92,$8313.60,ACH Transfer,Direct Consumer,Delivered,4.0
+TXN-2024-10169,2024.02.19,apple watch ultra 2,WEARABLES,APAC,"₹66,317",7,0%,$63.92,"5,593.00",PayPal,Direct Consumer,In Transit,3.0
+TXN-2024-10170,2024/12/24,IPHONE 15 PRO,Electronics,Europe West,999.00 USD,3,20%,$79.92,$2397.60,PayPal,Small Business,Processing,1.0
+TXN-2024-10171,2024.02.14,Logitech MX Master 3S,Accessories,MENA,99.00 USD,18,0.10,$7.92,"1,603.80",Purchase Order,Mid-Market,Pending Approval,1.0
+TXN-2024-10172,2024.11.15,macbook pro 16-inch,Computers,Latin America,"$2,499",15,25%,$199.92,$28113.75,Cryptocurrency,Government,Delivered,4.0
+TXN-2024-10173,27 Feb 2024,Logitech Mouse MX3S,accessories,asia pacific,$99,1,0%,$7.92,99.00,Cryptocurrency,Small Business,Cancelled,3.0
+TXN-2024-10174,21 Mar 2024,Logitech MX Master 3S,Accessories,ASIA PACIFIC,99.00 USD,22,20%,$7.92,"$1,742.40",Credit Card,Mid-Market,Refunded,4.8
+TXN-2024-10175,23 Nov 2024,ipad pro 12.9,tablets,middle east,"$1,099",7,0.30,N/A,$5385.10,ACH Transfer,Government,Refunded,4.0
+TXN-2024-10176,22 Jun 2024,Dell XPS15,Computers,Asia-Pac,"₹157,658",323,20%,$151.96,"490,830.80",PayPal,Direct Consumer,Processing,4.5
+TXN-2024-10177,2024/07/10,samsung galaxy s24 ultra,Electronics,Europe West,1299.00,4,15%,$103.92,"$4,416.60",ACH Transfer,Direct Consumer,Processing,4.5
+TXN-2024-10178,2024.02.21,iphone 15 pro,Electronics,North America,999.00,11,5%,N/A,$10439.55,Credit Card,Enterprise,Processing,2.0
+TXN-2024-10179,09/19/2024,AppleWatchUltra2,Wearables,Middle East,"₹66,317",2,10%,$63.92,"1,438.20",null,Enterprise,Delivered,2.0
+TXN-2024-10180,05/19/2024,sony wh-1000xm5,Audio,middle east,"₹33,199",15,10%,,$5399.87,Purchase Order,Small Business,In Transit,4.0
+TXN-2024-10181,2024/07/19,Samsung Galaxy S24 Ultra,Electronics,EUROPE WEST,"$1,299.00",20,30%,$103.92,"₹1,509,438",Corporate Wire,Mid-Market,In Transit,Pending
+TXN-2024-10182,19 Sep 2024,Logitech Mouse MX3S,Accessories,NA Region,$99.00,7,15%,$7.92,$589.05,PayPal,Small Business,Refunded,3.0
+TXN-2024-10183,09/15/2024,"MacBook Pro 16""",Computers,middle east,2499.00 USD,16,0.15,$199.92,$33986.40,null,Enterprise,Refunded,5.0
+TXN-2024-10184,2024/02/22,samsung galaxy s24 ultra,Electronics,Mid East,"₹107,817",2,25%,$103.92,$1948.50,Corporate Wire,Enterprise,In Transit,1.0
+TXN-2024-10185,2024/03/15,Dell XPS15,computers,MENA,"$1,899.50",1,30%,$151.96,"(1,329.65)",Purchase Order,Mid-Market,In Transit,3.0
+TXN-2024-10186,08/12/2024,Logitech MX Master 3S,Accessories,N. America,$99.00,2,5%,$7.92,$188.10,Corporate Wire,Enterprise,Cancelled,3.0
+TXN-2024-10187,2024/06/16,LOGITECH MX MASTER,Accessories,North America,€91.08,5,0.30,$7.92,346.50,PayPal,Enterprise,Delivered,4.8
+TXN-2024-10188,17-03-2024,logitech mx master 3s,Accessories,Latin America,$99,177,10%,$7.92,"$15,770.70",Credit Card,Government,In Transit,1.0
+TXN-2024-10189,2024/09/17,IPHONE 15 PRO,Electronics,EUROPE WEST,€919.08,13,10%,$79.92,$11688.30,Credit Card,Enterprise,Cancelled,3.0
+TXN-2024-10190,2024/02/16,Sony Headphones XM5,Audio,NORTH AMERICA,399.99,506,0.10,N/A,$182155.45,Purchase Order,Small Business,Cancelled,3.0
+TXN-2024-10191,2024/08/25,Dell XPS15,Computers,middle east,1899.50,,0.20,$151.96,"1,519.60",Cryptocurrency,Government,In Transit,Pending
+TXN-2024-10192,2024.09.19,logitech mx master 3s,Accessories,latin america,$99.00,13,10%,$7.92,"1,158.30",Corporate Wire,Direct Consumer,Delivered,5.0
+TXN-2024-10193,2024.12.12,sony wh-1000xm5,Audio,Mid East,€367.99,3,0.25,$32.00,$899.98,PayPal,Small Business,Pending Approval,3.5
+TXN-2024-10194,20-05-2024,dell xps 15,Computers,EUROPE WEST,1899.50,22,0%,$151.96,$41789.00,Cryptocurrency,Mid-Market,Cancelled,4.8
+TXN-2024-10195,2024.06.17,apple watch ultra 2,Wearables,latin america,799.00 USD,25,10%,$63.92,$17977.50,Cryptocurrency,Small Business,Cancelled,4.8
+TXN-2024-10196,2024-11-12,SONY WH1000XM5,Audio,asia pacific,$400,24,30%,$32.00,"$6,719.83",Purchase Order,Small Business,Delivered,
+TXN-2024-10197,2024/04/16,LG OLED 65 TV,DISPLAYS,Europe West,"$1,699",367,0.15,$135.92,$530003.05,PayPal,Small Business,Delivered,4.0
+TXN-2024-10198,12 Oct 2024,iphone15pro,Electronics,Mid East,999.00 USD,15,0%,$79.92,$14985.00,Cryptocurrency,Mid-Market,Processing,3.5
+TXN-2024-10199,2024-08-13,iPhone 15 pro,Electronics,middle east,$999.00,25,15%,$79.92,$21228.75,Cryptocurrency,Enterprise,Delivered,5.0
+TXN-2024-10200,27 Feb 2024,Sony Headphones XM5,Audio,EUROPE WEST,€367.99,22,20%,$32.00,$7039.82,Credit Card,Enterprise,Refunded,4.8
+TXN-2024-10201,01-01-2024,"MacBook Pro 16""",Computers,north america,"€2,299.08",21,20%,$199.92,$41983.20,Corporate Wire,Mid-Market,Refunded,3.5
+TXN-2024-10202,2024-05-09,SAMSUNG GALAXY S24 ULTRA,Electronics,North America,"$1,299.00",21,10%,$103.92,"(24,551.10)",Purchase Order,Small Business,Delivered,3.0
+TXN-2024-10203,10/12/2024,macbook pro 16,Computers,APAC,"$2,499",17,0.25,$199.92,$31862.25,Corporate Wire,Small Business,In Transit,Pending
+TXN-2024-10204,16-11-2024,IPHONE 15 PRO,ELECTRONICS,Europe West,$999.00,16,25%,$79.92,"11,988.00",Corporate Wire,Small Business,Refunded,4.0
+TXN-2024-10205,2024.03.23,Bose QuietComfort 45,Audio,latin america,329.00 USD,10,25%,$26.32,$2467.50,ACH Transfer,Mid-Market,Processing,4.0
+TXN-2024-10206,09 Jan 2024,sony wh-1000xm5,Audio,Mid East,$400,19,10%,$32.00,"6,839.83",Purchase Order,Mid-Market,Refunded,4.8
+TXN-2024-10207,2024-09-14,MacBookPro16,Computers,NA Region,2499.00,9,25%,$199.92,"$16,868.25",ACH Transfer,Mid-Market,Pending Approval,
+TXN-2024-10208,27-10-2024,Sony Headphones XM5,Audio,Asia-Pac,$400,16,5%,$32.00,$6079.85,Corporate Wire,Mid-Market,Refunded,4.5
+TXN-2024-10209,2024.09.26,ipad pro 12.9,TABLETS,europe west,"€1,011.08",6,5%,$87.92,$6264.30,Credit Card,Government,In Transit,2.0
+TXN-2024-10210,06 Jan 2024,SAMSUNG GALAXY S24 ULTRA,Electronics,Middle East,"$1,299.00",24,0.30,$103.92,$21823.20,Cryptocurrency,Direct Consumer,Cancelled,2.0
+TXN-2024-10211,24-08-2024,"MACBOOK PRO 16""",Computers,EUROPE WEST,"$2,499.00",13,0.25,$199.92,"$24,365.25",null,Mid-Market,Cancelled,Pending
+TXN-2024-10212,2024.01.15,Dell XPS15,Computers,ASIA PACIFIC,"₹157,658",20,0.15,$151.96,$32291.50,Corporate Wire,Direct Consumer,Delivered,1.0
+TXN-2024-10213,09-07-2024,iphone15pro,Electronics,APAC,999.00,4,20%,,$3196.80,PayPal,Enterprise,Delivered,4.8
+TXN-2024-10214,2024-09-04,bose quietcomfort 45,Audio,NORTH AMERICA,$329,6,0%,$26.32,"$1,974.00",ACH Transfer,Enterprise,Refunded,Pending
+TXN-2024-10215,2024.10.07,Logitech Mouse MX3S,Accessories,Mid East,$99,12,0.10,$7.92,$1069.20,Corporate Wire,Government,Cancelled,4.8
+TXN-2024-10216,01-05-2024,SAMSUNG GALAXY S24 ULTRA,electronics,Middle East,"€1,195.08",163,10%,,$190563.30,Credit Card,Small Business,Processing,3.5
+TXN-2024-10217,2024-08-17,iphone15pro,ELECTRONICS,Asia-Pac,999.00 USD,20,25%,$79.92,$14985.00,Purchase Order,Direct Consumer,Delivered,3.5
+TXN-2024-10218,2024-03-18,Bose QuietComfort 45,Audio,europe west,€302.68,20,0.25,$26.32,$4935.00,Credit Card,Direct Consumer,Refunded,4.5
+TXN-2024-10219,2024-05-14,DELL XPS 15,Computers,Middle East,"₹157,658",12,30%,$151.96,"₹1,324,331",PayPal,Small Business,Delivered,Pending
+TXN-2024-10220,2024-06-18,iPhone 15 pro,Electronics,NORTH AMERICA,€919.08,18,15%,$79.92,$15284.70,Purchase Order,Enterprise,Cancelled,5.0
+TXN-2024-10221,14 Nov 2024,iPhone 15 Pro,Electronics,MENA,$999,21,30%,$79.92,$14685.30,PayPal,Government,In Transit,2.0
+TXN-2024-10222,2024/02/12,SAMSUNG GALAXY S24 ULTRA,Electronics,Mid East,1299.00,24,5%,N/A,$29617.20,ACH Transfer,Government,Processing,4.0
+TXN-2024-10223,2024/04/27,AppleWatchUltra2,Wearables,ASIA PACIFIC,"₹66,317",19,30%,$63.92,$10626.70,Purchase Order,Small Business,Pending Approval,4.0
+TXN-2024-10224,2024.06.13,bose quietcomfort 45,Audio,Asia Pacific,$329,17,0%,$26.32,"₹464,219",Purchase Order,Small Business,In Transit,3.0
+TXN-2024-10225,18-10-2024,macbook pro 16-inch,Computers,NA Region,2499.00 USD,9,25%,$199.92,"$16,868.25",Cryptocurrency,Direct Consumer,Refunded,2.0
+TXN-2024-10226,06/15/2024,logitech mx master 3s,Accessories,Asia Pacific,$99,4,25%,$7.92,297.00,Corporate Wire,Mid-Market,In Transit,5.0
+TXN-2024-10227,2024-03-02,Dell XPS15,Computers,Latin America,1899.50 USD,21,0.15,$151.96,$33906.07,Credit Card,Small Business,Cancelled,4.0
+TXN-2024-10228,11 Nov 2024,macbook pro 16,COMPUTERS,Asia Pacific,2499.00 USD,15,25%,$199.92,$28113.75,ACH Transfer,Government,Pending Approval,1.0
+TXN-2024-10229,2024/04/05,Logitech MX Master 3S,Accessories,europe west,€91.08,5,0.25,$7.92,(371.25),Corporate Wire,Small Business,In Transit,3.0
+TXN-2024-10230,04/21/2024,bose quietcomfort 45,Audio,Europe-W,$329,3,15%,$26.32,$838.95,Purchase Order,Small Business,Processing,4.2
+TXN-2024-10231,2024.08.08,DELL XPS 15,Computers,Europe West,"₹157,658",15,0.15,$151.96,"$24,218.62",Corporate Wire,Direct Consumer,Refunded,2.0
+TXN-2024-10232,2024.06.14,Bose QuietComfort 45,Audio,asia pacific,$329,22,0.25,$26.32,$5428.50,Purchase Order,Mid-Market,Delivered,4.8
+TXN-2024-10233,2024-09-13,Samsung Galaxy S24 Ultra,Electronics,NA Region,"$1,299",17,25%,$103.92,$16562.25,Cryptocurrency,Enterprise,Delivered,4.0
+TXN-2024-10234,10/12/2024,Bose QC 45,AUDIO,middle east,$329.00,17,0%,$26.32,"5,593.00",PayPal,Small Business,Processing,5.0
+TXN-2024-10235,22 May 2024,ipad pro 12.9,Tablets,LATAM,"€1,011.08",3,0.25,$87.92,"2,472.75",null,Government,Pending Approval,2.0
+TXN-2024-10236,2024/11/09,MacBookPro16,Computers,N. America,"$2,499.00",2,5%,$199.92,"₹394,092",Credit Card,Small Business,In Transit,3.5
+TXN-2024-10237,2024.06.09,SAMSUNG GALAXY S24 ULTRA,Electronics,Asia Pacific,"$1,299.00",21,0%,N/A,$27279.00,Cryptocurrency,Small Business,Pending Approval,3.5
+TXN-2024-10238,2024-06-06,ipad pro 12.9,Tablets,S. America,1099.00,20,0.25,$87.92,"$16,485.00",ACH Transfer,Small Business,Refunded,4.5
+TXN-2024-10239,2024.02.20,macbook pro 16-inch,Computers,EUROPE WEST,2499.00,16,15%,$199.92,$33986.40,Purchase Order,Enterprise,Pending Approval,4.8
+TXN-2024-10240,2024-08-27,sony wh-1000xm5,Audio,MENA,$399.99,3,0.30,$32.00,"₹69,718",Purchase Order,Small Business,Refunded,1.0
+TXN-2024-10241,23 Aug 2024,Sony Headphones XM5,Audio,asia pacific,399.99 USD,7,0.00,$32.00,$2799.93,null,Direct Consumer,Processing,4.0
+TXN-2024-10242,26 May 2024,sony wh-1000xm5,audio,Mid East,€367.99,25,0.00,N/A,"(9,999.75)",PayPal,Small Business,Delivered,3.5
+TXN-2024-10243,2024-07-23,bose quietcomfort 45,Audio,middle east,329.00 USD,173,5%,,$54071.15,ACH Transfer,Government,Processing,3.0
+TXN-2024-10244,11/15/2024,LG 65-inch OLED,Displays,N. America,"₹141,017",25,0.10,$135.92,$38227.50,Corporate Wire,Government,Processing,
+TXN-2024-10245,2024-01-25,BOSE QC45,Audio,ASIA PACIFIC,329.00 USD,24,20%,$26.32,$6316.80,Purchase Order,Direct Consumer,In Transit,4.5
+TXN-2024-10246,2024.02.11,iPadPro 12.9,Tablets,MENA,"₹91,217",25,25%,$87.92,$20606.25,Corporate Wire,Enterprise,In Transit,1.0
+TXN-2024-10247,05 Jan 2024,Bose QC 45,Audio,Asia-Pac,329.00 USD,21,0.05,,"6,563.55",PayPal,Government,Delivered,2.0
+TXN-2024-10248,2024-02-07,SAMSUNG GALAXY S24 ULTRA,Electronics,Europe West,"$1,299",11,10%,$103.92,$12860.10,Credit Card,Enterprise,Pending Approval,
+TXN-2024-10249,2024.01.07,Logitech Mouse MX3S,accessories,asia pacific,$99,7,0.00,$7.92,$693.00,Corporate Wire,Direct Consumer,Processing,5.0
+TXN-2024-10250,28 Oct 2024,DELL XPS 15,Computers,north america,"₹157,658",10,30%,,"13,296.50",Corporate Wire,Direct Consumer,Pending Approval,1.0
+TXN-2024-10251,22-08-2024,"MACBOOK PRO 16""",Computers,MENA,"$2,499.00",6,0.25,$199.92,$11245.50,ACH Transfer,Enterprise,Refunded,1.0
+TXN-2024-10252,2024/10/20,"LG OLED 65"" TV",Displays,EU-West,1699.00,20,0.10,$135.92,"₹2,538,306",Cryptocurrency,Government,Pending Approval,4.2
+TXN-2024-10253,19 Jan 2024,Bose QC 45,Audio,latin america,"₹27,307",,15%,$26.32,"₹23,211",PayPal,Mid-Market,In Transit,2.0
+TXN-2024-10254,2024/04/23,Logitech Mouse MX3S,Accessories,Europe West,"₹8,217",21,10%,$7.92,$1871.10,Credit Card,Mid-Market,Refunded,4.2
+TXN-2024-10255,17 Mar 2024,Samsung Galaxy S24 Ultra,electronics,latin america,"$1,299",22,25%,$103.92,$21433.50,Cryptocurrency,Small Business,Refunded,2.0
+TXN-2024-10256,12 Dec 2024,APPLE WATCH ULTRA 2,Wearables,Asia Pacific,$799,13,20%,$63.92,"8,309.60",Purchase Order,Small Business,In Transit,5.0
+TXN-2024-10257,2024-01-28,Logitech Mouse MX3S,Accessories,North America,€91.08,,25%,$7.92,$74.25,Corporate Wire,Enterprise,Pending Approval,3.0
+TXN-2024-10258,01/23/2024,"IPAD PRO 12.9""",Tablets,middle east,"₹91,217",7,0.00,$87.92,"₹638,519",Credit Card,Enterprise,Pending Approval,3.5
+TXN-2024-10259,2024-05-24,Bose QuietComfort 45,Audio,NA Region,€302.68,21,10%,$26.32,"6,218.10",null,---,Refunded,5.0
+TXN-2024-10260,2024-01-11,iphone 15 pro,Electronics,Europe-W,$999,12,0.10,N/A,$10789.20,null,Direct Consumer,Pending Approval,4.8
+TXN-2024-10261,2024/09/25,iPhone 15 pro,Electronics,NA Region,999.00 USD,8,10%,$79.92,$7192.80,PayPal,Government,In Transit,4.2
+TXN-2024-10262,2024.03.21,APPLE WATCH ULTRA 2,Wearables,MENA,799.00 USD,20,0.05,$63.92,$15181.00,ACH Transfer,Mid-Market,In Transit,3.0
+TXN-2024-10263,2024-03-24,iphone 15 pro,ELECTRONICS,north america,999.00 USD,156,10%,$79.92,$140259.60,Cryptocurrency,Government,In Transit,Pending
+TXN-2024-10264,2024.06.21,Bose QuietComfort 45,Audio,Europe-W,329.00 USD,2,20%,$26.32,$526.40,Purchase Order,Small Business,Cancelled,4.0
+TXN-2024-10265,12-12-2024,Dell XPS15,Computers,Middle East,"₹157,658",219,30%,$151.96,"₹24,169,048",Credit Card,Mid-Market,Cancelled,4.5
+TXN-2024-10266,2024.11.10,BOSE QC45,Audio,Europe West,"₹27,307",15,0.00,$26.32,"$4,935.00",Corporate Wire,Direct Consumer,Delivered,2.0
+TXN-2024-10267,10 Jul 2024,Sony WH-1000XM5,Audio,NA Region,399.99 USD,16,0.05,$32.00,"₹504,627",Credit Card,Small Business,Processing,4.0
+TXN-2024-10268,2024.04.11,Samsung Galaxy S24 Ultra,Electronics,Europe West,"$1,299.00",21,5%,$103.92,$25915.05,Cryptocurrency,Small Business,Refunded,4.5
+TXN-2024-10269,13 Aug 2024,LOGITECH MX MASTER,accessories,Middle East,99.00,9,0.15,$7.92,$757.35,Credit Card,---,Cancelled,
+TXN-2024-10270,2024-01-16,iPadPro 12.9,tablets,MENA,"$1,099.00",,30%,$87.92,$769.30,ACH Transfer,Small Business,In Transit,3.0
+TXN-2024-10271,16 May 2024,BOSE QC45,Audio,Middle East,€302.68,20,0.30,$26.32,$4606.00,Purchase Order,Government,Processing,3.5
+TXN-2024-10272,08/06/2024,"LG OLED 65"" TV",displays,Asia Pacific,1699.00 USD,562,5%,$135.92,$907096.10,Cryptocurrency,Small Business,Delivered,4.8
+TXN-2024-10273,10/28/2024,apple watch ultra 2,Wearables,ASIA PACIFIC,$799,16,10%,$63.92,"(11,505.60)",Corporate Wire,Direct Consumer,Pending Approval,4.2
+TXN-2024-10274,2024-05-18,BOSE QC45,Audio,Europe-W,€302.68,370,15%,$26.32,$103470.50,Credit Card,Direct Consumer,Delivered,3.5
+TXN-2024-10275,08-03-2024,"iPad Pro 12.9""",Tablets,Asia Pacific,"₹91,217",18,25%,$87.92,$14836.50,Credit Card,Direct Consumer,Cancelled,4.2
+TXN-2024-10276,02/26/2024,bose quietcomfort 45,Audio,EUROPE WEST,329.00,1,15%,$26.32,$279.65,ACH Transfer,Government,Delivered,3.5
+TXN-2024-10277,2024.03.19,dell xps 15,Computers,latin america,1899.50,12,0.20,$151.96,$18235.20,ACH Transfer,Mid-Market,Refunded,3.0
+TXN-2024-10278,2024/06/10,dell xps 15,Computers,asia pacific,1899.50 USD,3,20%,$151.96,$4558.80,Purchase Order,Small Business,Delivered,4.5
+TXN-2024-10279,2024.05.15,samsung galaxy s24 ultra,Electronics,europe west,"₹107,817",18,30%,$103.92,"16,367.40",Cryptocurrency,Government,Refunded,2.0
+TXN-2024-10280,10/13/2024,iphone 15 pro,Electronics,latin america,$999.00,4,10%,$79.92,"3,596.40",ACH Transfer,Direct Consumer,Refunded,4.8
+TXN-2024-10281,2024.02.24,iPhone 15 Pro,Electronics,asia pacific,999.00,20,15%,$79.92,"16,983.00",ACH Transfer,Government,Refunded,4.0
+TXN-2024-10282,07/24/2024,LG 65-inch OLED,Displays,S. America,"€1,563.08",24,25%,$135.92,$30582.00,PayPal,Enterprise,Pending Approval,4.8
+TXN-2024-10283,25 Dec 2024,lg oled 65,Displays,EU-West,"₹141,017",6,0%,N/A,$10194.00,Corporate Wire,Direct Consumer,Pending Approval,4.5
+TXN-2024-10284,15 Apr 2024,SAMSUNG GALAXY S24 ULTRA,ELECTRONICS,APAC,"$1,299",24,0.15,$103.92,"$26,499.60",Credit Card,Small Business,In Transit,2.0
+TXN-2024-10285,21-03-2024,macbook pro 16,Computers,NA Region,"₹207,417",5,10%,$199.92,$11245.50,Credit Card,Government,Pending Approval,4.5
+TXN-2024-10286,2024.08.05,LOGITECH MX MASTER,Accessories,MENA,$99,21,15%,$7.92,"(1,767.15)",ACH Transfer,Mid-Market,Cancelled,3.0
+TXN-2024-10287,2024-03-21,IPHONE 15 PRO,Electronics,Europe West,"₹82,917",2,25%,$79.92,$1498.50,Credit Card,Enterprise,Delivered,4.2
+TXN-2024-10288,2024.08.26,DELL XPS 15,Computers,latin america,"$1,899.50",15,10%,$151.96,$25643.25,Credit Card,Direct Consumer,Cancelled,3.5
+TXN-2024-10289,2024-10-11,Dell XPS15,computers,Asia Pacific,"$1,899.50",22,0%,$151.96,"41,789.00",Cryptocurrency,Mid-Market,Cancelled,2.0
+TXN-2024-10290,25 Oct 2024,Logitech Mouse MX3S,Accessories,latin america,$99.00,25,0.30,$7.92,$1732.50,ACH Transfer,Government,Pending Approval,3.0
+TXN-2024-10291,2024.11.15,"MACBOOK PRO 16""",Computers,europe west,2499.00 USD,15,0%,$199.92,$37485.00,Cryptocurrency,Mid-Market,Delivered,2.0
+TXN-2024-10292,10-01-2024,iphone 15 pro,electronics,latin america,$999.00,8,30%,$79.92,"5,594.40",Purchase Order,Small Business,Pending Approval,1.0
+TXN-2024-10293,27 Oct 2024,AppleWatchUltra2,wearables,NORTH AMERICA,"₹66,317",13,0%,$63.92,$10387.00,Cryptocurrency,Mid-Market,Refunded,2.0
+TXN-2024-10294,04/28/2024,iPhone 15 pro,electronics,EUROPE WEST,€919.08,16,15%,$79.92,$13586.40,Cryptocurrency,Enterprise,Processing,4.2
+TXN-2024-10295,2024-02-13,LG OLED 65 TV,Displays,asia pacific,"₹141,017",9,0.05,$135.92,"14,526.45",Cryptocurrency,Direct Consumer,Delivered,3.5
+TXN-2024-10296,2024/07/12,Logitech MX Master 3S,Accessories,S. America,€91.08,6,25%,$7.92,$445.50,Cryptocurrency,---,Delivered,4.8
+TXN-2024-10297,2024-11-19,Sony Headphones XM5,Audio,middle east,"₹33,199",15,0.10,$32.00,$5399.87,Corporate Wire,Small Business,Cancelled,1.0
+TXN-2024-10298,03-04-2024,lg oled 65,Displays,LATAM,1699.00 USD,2,15%,,$2888.30,Cryptocurrency,Direct Consumer,In Transit,
+TXN-2024-10299,04/09/2024,Sony Headphones XM5,audio,middle east,399.99 USD,,0.05,$32.00,$379.99,Cryptocurrency,Enterprise,Cancelled,4.0
+TXN-2024-10300,01/12/2024,samsung galaxy s24 ultra,Electronics,EU-West,"₹107,817",9,15%,$103.92,"$9,937.35",PayPal,Enterprise,Delivered,Pending
+TXN-2024-10301,2024-05-15,"MacBook Pro 16""",Computers,Latin America,"$2,499.00",19,25%,$199.92,"$35,610.75",Credit Card,Enterprise,In Transit,3.5
+TXN-2024-10302,07/27/2024,logitech mx master 3s,Accessories,MENA,$99.00,5,0.25,$7.92,$371.25,Cryptocurrency,Enterprise,Cancelled,
+TXN-2024-10303,2024.12.16,iphone 15 pro,Electronics,N. America,999.00,10,20%,$79.92,$7992.00,ACH Transfer,Small Business,Processing,5.0
+TXN-2024-10304,2024-04-20,"IPAD PRO 12.9""",Tablets,Middle East,1099.00,496,20%,$87.92,$436083.20,Purchase Order,Direct Consumer,Processing,3.0
+TXN-2024-10305,06/28/2024,iPhone 15 Pro,Electronics,Asia-Pac,€919.08,21,5%,$79.92,"$19,930.05",Cryptocurrency,Small Business,Pending Approval,3.0
+TXN-2024-10306,2024/07/01,iphone15pro,Electronics,latin america,999.00 USD,23,0%,$79.92,$22977.00,PayPal,Mid-Market,Cancelled,
+TXN-2024-10307,2024-02-11,iPadPro 12.9,Tablets,latin america,"€1,011.08",7,20%,$87.92,"6,154.40",ACH Transfer,Small Business,Refunded,1.0
+TXN-2024-10308,2024.05.19,iphone15pro,Electronics,Middle East,$999,1,0.10,$79.92,$899.10,Corporate Wire,Mid-Market,Delivered,1.0
+TXN-2024-10309,25 Oct 2024,BOSE QC45,Audio,MENA,329.00 USD,25,0.30,$26.32,"$5,757.50",Credit Card,Small Business,Delivered,4.5
+TXN-2024-10310,2024-06-21,macbook pro 16-inch,Computers,Asia Pacific,"$2,499.00",,15%,$199.92,"$2,124.15",Corporate Wire,Government,Processing,2.0
+TXN-2024-10311,2024-09-22,Bose QC 45,Audio,S. America,"₹27,307",25,10%,$26.32,"7,402.50",Credit Card,Government,Refunded,4.0
+TXN-2024-10312,2024/02/03,AppleWatchUltra2,Wearables,MENA,$799.00,2,20%,$63.92,"$1,278.40",Credit Card,Small Business,In Transit,5.0
+TXN-2024-10313,11/06/2024,Samsung Galaxy S24 Ultra,Electronics,Europe West,1299.00,19,0.10,$103.92,$22212.90,Cryptocurrency,Direct Consumer,Delivered,5.0
+TXN-2024-10314,2024/02/14,"LG OLED 65"" TV",Displays,ASIA PACIFIC,1699.00,17,5%,$135.92,"₹2,277,425",PayPal,Enterprise,In Transit,3.5
+TXN-2024-10315,02-01-2024,macbook pro 16,Computers,Asia Pacific,"$2,499",420,10%,$199.92,"$944,622.00",ACH Transfer,Direct Consumer,Pending Approval,2.0
+TXN-2024-10316,2024.08.09,"MACBOOK PRO 16""",computers,APAC,2499.00,7,10%,,$15743.70,null,Small Business,Cancelled,
+TXN-2024-10317,03/21/2024,"MACBOOK PRO 16""",Computers,middle east,"$2,499.00",22,30%,$199.92,"$38,484.60",Corporate Wire,Government,Refunded,4.0
+TXN-2024-10318,2024-07-11,macbook pro 16-inch,Computers,N. America,2499.00,22,15%,,$46731.30,Credit Card,Enterprise,Pending Approval,3.5
+TXN-2024-10319,25-01-2024,IPHONE 15 PRO,Electronics,Asia Pacific,€919.08,22,25%,$79.92,$16483.50,Corporate Wire,Mid-Market,Refunded,4.2
+TXN-2024-10320,03-01-2024,macbook pro 16-inch,Computers,Mid East,2499.00,11,0.15,$199.92,"23,365.65",null,Government,Cancelled,1.0
+TXN-2024-10027,12-12-2024,Sony WH-1000XM5,Audio,MENA,$399.99,243,20%,$32.00,"(77,758.06)",Cryptocurrency,Mid-Market,In Transit,Pending
+TXN-2024-10002,2024.06.23,DELL XPS 15,Computers,Asia Pacific,"$1,900",194,25%,N/A,$276377.25,Credit Card,Government,Cancelled,3.5
+TXN-2024-10026,2024/09/17,ipad pro 12.9,TABLETS,EU-West,"$1,099.00",20,0.20,$87.92,$17584.00,Purchase Order,Mid-Market,Pending Approval,5.0
+TXN-2024-10017,15-11-2024,macbook pro 16,computers,Latin America,"$2,499",9,15%,$199.92,$19117.35,Credit Card,Mid-Market,Refunded,3.0
+TXN-2024-10027,12-12-2024,Sony WH-1000XM5,Audio,MENA,$399.99,243,20%,$32.00,"(77,758.06)",Cryptocurrency,Mid-Market,In Transit,Pending
+TXN-2024-10001,2024-02-07,lg oled 65,Displays,S. America,1699.00,20,0.15,$135.92,"$28,883.00",ACH Transfer,Small Business,Delivered,4.0
+TXN-2024-10028,2024/06/01,ipad pro 12.9,Tablets,middle east,"€1,011.08",16,0%,$87.92,"$17,584.00",Purchase Order,Mid-Market,Delivered,2.0
+TXN-2024-10030,2024-04-06,samsung galaxy s24 ultra,Electronics,S. America,"$1,299",17,0%,$103.92,"$22,083.00",Cryptocurrency,Small Business,Refunded,3.0
+TXN-2024-10026,2024/09/17,ipad pro 12.9,TABLETS,EU-West,"$1,099.00",20,0.20,$87.92,$17584.00,Purchase Order,Mid-Market,Pending Approval,5.0
+TXN-2024-10027,12-12-2024,Sony WH-1000XM5,Audio,MENA,$399.99,243,20%,$32.00,"(77,758.06)",Cryptocurrency,Mid-Market,In Transit,Pending
+TXN-2024-10014,04-04-2024,bose quietcomfort 45,Audio,middle east,329.00 USD,14,15%,$26.32,"$3,915.10",Corporate Wire,Mid-Market,Refunded,3.0
+TXN-2024-10020,2024/11/16,apple watch ultra 2,Wearables,APAC,$799,21,5%,$63.92,"15,940.05",Credit Card,Mid-Market,Processing,4.8
